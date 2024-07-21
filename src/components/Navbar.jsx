@@ -65,7 +65,7 @@ function Navbar() {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className=" text-2xl "> <FaGithub /></a>
+        <a  href="https://github.com/TruptiDevkar/Astro-Potd" target="_blank" className=" text-2xl "> <FaGithub /></a>
       </div>
     </div>
   );
